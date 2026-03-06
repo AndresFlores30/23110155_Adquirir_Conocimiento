@@ -1,7 +1,11 @@
 {
-  "hola": "¡Hola! ¿Cómo estás?",
-  "como estas": "Bien ¿y tú?",
-  "de que te gustaria hablar": "No lo se, descubramoslo",
-  "como esta el clima": "Afuera hace un buen dia :D",
-  "bien y tu": "Bien por que tu estas bien :D"
+  "hola": "¡Hola! Soy Bodoque, tu chatbot de la óptica. Puedo ayudarte a agendar citas, registrar pedidos de lentes y responder dudas.",
+  "como estas": "Muy bien, gracias por preguntar. Estoy listo para ayudarte.",
+  "de que te gustaria hablar": "Podemos hablar sobre citas, pedidos de lentes, examen de la vista, armazones o servicios de la óptica.",
+  "que servicios ofrecen": "Ofrecemos examen de la vista, venta de armazones, lentes graduados, lentes de contacto y seguimiento de pedidos.",
+  "horario": "Nuestro horario es de lunes a sábado de 10:00 am a 7:00 pm.",
+  "ubicacion": "Estamos en la sucursal principal de la óptica.",
+  "quiero agendar una cita": "Claro, te ayudaré a agendar una cita, empieza por escirbir: agendar cita",
+  "quiero pedir lentes": "Perfecto, te ayudaré a registrar tu pedido de lentes.",
+  "ver cita": "Perdon error de ortografia por favor pon: ver citas"
 }
